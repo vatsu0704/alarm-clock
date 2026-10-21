@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Runtime alarm data
+alarms.json
+alarms.json.tmp
